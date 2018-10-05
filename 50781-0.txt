@@ -3426,7 +3426,7 @@ Wakefield.
 
 "Fancy I'll hang on," replied the late skipper of M.L. 1071. "A day
 or two won't make much difference. Had I been ashore I suppose the
-S.N.O. would have packed me off on leave."
+S.N.O. would have packed me off on leaf."
 
 "And you, my festive?" inquired Morpeth, addressing Meredith.
 
@@ -4008,7 +4008,7 @@ in reality a German Secret Service agent.
 
 At Newcastle he caught a fast train bound for London. He now
 travelled third class, finding himself in the company of four
-bluejackets proceeding "on leave."
+bluejackets proceeding "on leaf."
 
 Within a few minutes of the train leaving the station the commercial
 traveller was apparently fast asleep. He was keenly on the alert to
@@ -8846,8 +8846,6 @@ PAULTON (SOMERSET) AND LONDON
     [Cumberleigh----for that was the name] ->
         [Cumberleigh--for that was the name]
     [Cumbereigh shrugged] -> [Cumberleigh shrugged]
-    [four bluejackets proceeding "on leaf."] ->
-        [four bluejackets proceeding "on leave."]
     [so much as winkin'. hopin'] -> [so much as winkin'. Hopin']
     [imparting descipline with] -> [imparting discipline with]
     [you aan be reckless] -> [you can be reckless]
